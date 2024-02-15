@@ -1,4 +1,4 @@
-/** Represents a music track. A track has a title (String), an artist (String), 
+/** Represents a music track. A track has a title (String), an artist (String),
  *  and a duration (int), in seconds. */
 class Track {
     private String title;
@@ -42,7 +42,6 @@ class Track {
     // Returns a string that represents the totalSeconds as "minutes:seconds",
     // Where seconds is always two digits. For example, "3:17" or "12:05".
     private String formattedDuration(int totalSeconds) {
-        //// replace the following statement with your code
         return "";
     }
 }
